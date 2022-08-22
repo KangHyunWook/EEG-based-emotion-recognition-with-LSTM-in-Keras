@@ -1,5 +1,7 @@
 # EEG-based-emotion-recognition-with-LSTM-in-Keras
 
+Program Description: https://www.youtube.com/watch?v=eVPcpiCcrL8&t=2s <br />
+
 dataset link: https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions?resource=download <br />
 Place the downloaded file 'emotions.csv' to the working directory 
 
