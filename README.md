@@ -14,3 +14,9 @@ python train.py
 ```
 python train.py --vis
 ```
+
+<h2>How to test</h2>
+
+```
+python test.py
+```
