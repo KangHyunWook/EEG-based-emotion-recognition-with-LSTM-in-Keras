@@ -11,7 +11,7 @@ Place the downloaded file 'emotions.csv' to the working directory
 python train.py
 ```
 
-<h2>Add --vis as option to see the visualization of the predicted emotional vectors on the train data</h2>
+Add --vis as option to see the visualization of the predicted emotional vectors on the train data
 
 ```
 python train.py --vis --weights ./model/[saved_model_name]
