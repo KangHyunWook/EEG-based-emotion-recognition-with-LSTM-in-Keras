@@ -71,7 +71,7 @@ if args['aug']:
     train_data=shuffle(train_data)
   
     train_data=train_data[:1290,:-1]
-    train_labels=train_data[:1290,-1]
+    train_labels=train_labels[:1290,-1]
      
     
 test_data=data[n_train_data+n_val_data:n_train_data+n_val_data+n_test_data]
