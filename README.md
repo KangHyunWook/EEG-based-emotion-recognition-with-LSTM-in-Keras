@@ -12,7 +12,7 @@ python train.py
 <h2>Add --vis as option to see the visualization of the predicted emotional vectors on the train data</h2>
 
 ```
-python train.py --vis
+python train.py --vis --weights [saved_model_name]
 ```
 
 <h2>How to test</h2>
