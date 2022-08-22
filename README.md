@@ -12,8 +12,10 @@ python train.py
 <h2>Add --vis as option to see the visualization of the predicted emotional vectors on the train data</h2>
 
 ```
-python train.py --vis --weights [saved_model_name]
+python train.py --vis --weights ./model/[saved_model_name]
 ```
+
+You can add white noise data augmentation with --aug option, however performance degrades with eeg signal data unlike audio data.
 
 <h2>How to test</h2>
 
