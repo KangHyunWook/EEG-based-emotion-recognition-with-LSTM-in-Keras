@@ -41,8 +41,6 @@ model = load_model(saved_model_path)
 """Load saved model weights"""
 import os 
 
-model.load_weights(saved_model_path)
-
 print('====Performance====')
 
 predictions=model.predict(testX, verbose=0)
