@@ -22,5 +22,5 @@ You can add white noise data augmentation with --aug option, however performance
 <h2>How to test</h2>
 
 ```
-python test.py [saved_model_name]
+python test.py -w [saved_model_name]
 ```
